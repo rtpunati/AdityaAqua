@@ -1,5 +1,5 @@
 <?php 
-$page = "recipie";
+$page = "article";
 
 	include("include/header.php"); 
 

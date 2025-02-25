@@ -89,14 +89,13 @@ $page = "contact";
                                 <div class="contact_block">
                                     <h4>Contact Information</h4>
                                     <ul class="personal-info">
-                                        <li><i class="fa fa-map-marker"></i> vizag</li>
+                                        <li><i class="fa fa-map-marker"></i> Aditya Aqua, JF28+4RC, Chebrolu Undi Rd, Andhra Pradesh 534199, India</li>
                                         <li><i class="fa fa-envelope"></i> rtpunati@gmail.com</li>
                                         <li><i class="fa fa-phone"></i> 464</li>
-                                        <li><i class="fa fa-phone"></i>444</li>
                                     </ul>
                                     <ul class="social-network social-circle">
-                                        <li><a href="http://www.facebook.com/onlinecareer" class="icoFacebook" title="Facebook"><i class="fa fa-facebook"></i></a></li>
-                                        <li><a href="http://www.twitter.com/onlinecareer" class="icoTwitter" title="Twitter"><i class="fa fa-twitter"></i></a></li>
+                                  <!--      <li><a href="http://www.facebook.com/onlinecareer" class="icoFacebook" title="Facebook"><i class="fa fa-facebook"></i></a></li>
+                                        <li><a href="http://www.twitter.com/onlinecareer" class="icoTwitter" title="Twitter"><i class="fa fa-twitter"></i></a></li>-->
                                         <li><a href="http://www.google.com/onlinecareer" class="icoGoogle" title="Google +"><i class="fa fa-google-plus"></i></a></li>
                                         <li><a href="http://www.linkedin.com.com/onlinecareer" class="icoLinkedin" title="Linkedin"><i class="fa fa-linkedin"></i></a></li>
                                     </ul>

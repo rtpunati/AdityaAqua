@@ -32,14 +32,12 @@
 		
 			if($page === "home"){
 				echo $details['business_name']." | Home";
-			}elseif($page === "recipie"){
-				echo $recipie['page_title']." | ".$details['business_name'];
+			}elseif($page === "article"){
+				echo $article['page_title']." | ".$details['business_name'];
 			}elseif($page === "job"){
 				echo $job['page_title']." | ".$details['business_name'];
 			}elseif($page === "contact"){
 				echo $contact['page_title']." | ".$details['business_name'];
-			}elseif($page === "register"){
-				echo $reg_page['page_title']." | ".$details['business_name'];
 			}
 		
 		?>
@@ -83,12 +81,7 @@
     <!-- JavaScripts -->
     <script src="js/modernizr.js"></script>
 
-<!-- HTML5 Shim and Respond.js IE8 support of HTML5 elements and media queries -->
-<!-- WARNING: Respond.js doesn't work if you view the page via file:// -->
-<!--[if lt IE 9]>
-        <script src="https://oss.maxcdn.com/html5shiv/3.7.2/html5shiv.min.js"></script>
-        <script src="https://oss.maxcdn.com/respond/1.4.2/respond.min.js"></script>
-<![endif]-->
+
 <style>
 .active {
   background-color:#29aafe;
@@ -167,7 +160,7 @@
                     <a href="goals.php">OUR GOALS</a>
                     <a href="story.php">OUR STORY</a>
                     <!--<a href="#">Organization Chart</a>-->
-                    <a href="sfaq.php">FAQ's</a>
+                    <a href="faq.php">FAQ's</a>
                 </div>
               </div>
               <div class="dropdown">

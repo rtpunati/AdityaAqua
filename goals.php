@@ -1,5 +1,5 @@
 <?php 
-$page = "recipie";
+$page = "job";
 
 	include("include/header.php"); 
 
